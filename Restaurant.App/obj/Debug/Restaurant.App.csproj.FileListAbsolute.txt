@@ -1,0 +1,16 @@
+C:\Users\valer\OneDrive\Рабочий стол\Restaurant.App\Restaurant.App\Restaurant.App\bin\Debug\Restaurant.App.exe.config
+C:\Users\valer\OneDrive\Рабочий стол\Restaurant.App\Restaurant.App\Restaurant.App\bin\Debug\Restaurant.App.exe
+C:\Users\valer\OneDrive\Рабочий стол\Restaurant.App\Restaurant.App\Restaurant.App\bin\Debug\Restaurant.App.pdb
+C:\Users\valer\OneDrive\Рабочий стол\Restaurant.App\Restaurant.App\Restaurant.App\obj\Debug\Restaurant.App.csprojAssemblyReference.cache
+C:\Users\valer\OneDrive\Рабочий стол\Restaurant.App\Restaurant.App\Restaurant.App\obj\Debug\Restaurant.App.AddEditDishForm.resources
+C:\Users\valer\OneDrive\Рабочий стол\Restaurant.App\Restaurant.App\Restaurant.App\obj\Debug\Restaurant.App.AddEditStaffMemberForm.resources
+C:\Users\valer\OneDrive\Рабочий стол\Restaurant.App\Restaurant.App\Restaurant.App\obj\Debug\Restaurant.App.AuthForm.resources
+C:\Users\valer\OneDrive\Рабочий стол\Restaurant.App\Restaurant.App\Restaurant.App\obj\Debug\Restaurant.App.DishesTableForm.resources
+C:\Users\valer\OneDrive\Рабочий стол\Restaurant.App\Restaurant.App\Restaurant.App\obj\Debug\Restaurant.App.MenuForm.resources
+C:\Users\valer\OneDrive\Рабочий стол\Restaurant.App\Restaurant.App\Restaurant.App\obj\Debug\Restaurant.App.Properties.Resources.resources
+C:\Users\valer\OneDrive\Рабочий стол\Restaurant.App\Restaurant.App\Restaurant.App\obj\Debug\Restaurant.App.RegistrationForm.resources
+C:\Users\valer\OneDrive\Рабочий стол\Restaurant.App\Restaurant.App\Restaurant.App\obj\Debug\Restaurant.App.StaffTableForm.resources
+C:\Users\valer\OneDrive\Рабочий стол\Restaurant.App\Restaurant.App\Restaurant.App\obj\Debug\Restaurant.App.csproj.GenerateResource.cache
+C:\Users\valer\OneDrive\Рабочий стол\Restaurant.App\Restaurant.App\Restaurant.App\obj\Debug\Restaurant.App.csproj.CoreCompileInputs.cache
+C:\Users\valer\OneDrive\Рабочий стол\Restaurant.App\Restaurant.App\Restaurant.App\obj\Debug\Restaurant.App.exe
+C:\Users\valer\OneDrive\Рабочий стол\Restaurant.App\Restaurant.App\Restaurant.App\obj\Debug\Restaurant.App.pdb
