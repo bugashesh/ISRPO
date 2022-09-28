@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\Lab__3\Lab__3\bin\Debug\netstandard1.4\Lab__3.deps.json
+C:\Users\user\source\repos\Lab__3\Lab__3\bin\Debug\netstandard1.4\Lab__3.dll
+C:\Users\user\source\repos\Lab__3\Lab__3\bin\Debug\netstandard1.4\Lab__3.pdb
+C:\Users\user\source\repos\Lab__3\Lab__3\obj\Debug\netstandard1.4\Lab__3.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Lab__3\Lab__3\obj\Debug\netstandard1.4\Lab__3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lab__3\Lab__3\obj\Debug\netstandard1.4\Lab__3.AssemblyInfo.cs
+C:\Users\user\source\repos\Lab__3\Lab__3\obj\Debug\netstandard1.4\Lab__3.dll
+C:\Users\user\source\repos\Lab__3\Lab__3\obj\Debug\netstandard1.4\Lab__3.pdb
